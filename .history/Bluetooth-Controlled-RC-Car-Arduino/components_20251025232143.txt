@@ -1,8 +1,0 @@
-## ⚙️ Components Used
-- Arduino UNO  
-- L298N Motor Driver Module  
-- HC-05 Bluetooth Module  
-- DC Motors (x2)  
-- 9V Battery or Li-ion Battery  
-- Jumper Wires  
-- Car Chassis

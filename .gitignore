@@ -1,0 +1,5 @@
+# Ignore VS Code history and cache
+.history/
+.vscode/
+*.tmp
+*.log
